@@ -14,7 +14,7 @@ Q_DIR = {'CSB':'/home/manuel/Software/Q6/bin/',
 BIN = os.path.join(ROOT_DIR, "bin")
 
 # Directory for Schrodinger software (e.g., Maestro)
-SCHROD_DIR = '/opt/schrodinger/suites2017-3/'
+SCHROD_DIR = '/home/manuel/Software/schrodinger2023-2/'
 
 # CLUSTER INPUTS. To add your own cluster, use the same input as below
 CSB = {'NODES'        : '1',

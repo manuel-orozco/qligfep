@@ -2,3 +2,6 @@
 *.DS_Store
 *._.DS_Store
 
+tutorials/QligFEP_CDK2/1.LigandPrep/*.lib
+tutorials/QligFEP_CDK2/1.LigandPrep/*.prm
+tutorials/QligFEP_CDK2/1.LigandPrep/*.log
