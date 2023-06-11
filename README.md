@@ -62,5 +62,5 @@ according to the given example.
 - Python3.10  
 - Q  
 
-contact: [Willem Jespers (PhD)](mailto:w.jespers@lacdr.leidenuniv.nl?subject=[QLigFEP]%20[QResFEP])
+contact: [Manuel Orozco (PhD)](mailto:manuel.orozco.rdz@gmail.com?subject=[QLigFEP]%20[QResFEP])
 
