@@ -36,7 +36,7 @@ based on ligand binding of CDk2 inhibitors.
   
 - Clone this repository:  
 
-    git clone https://github.com/qusers/qligfep.git
+    git clone https://github.com/manuel-orozco/qligfep.git
 
 - Create the shipped conda environment
 
