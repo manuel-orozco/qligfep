@@ -57,9 +57,12 @@ according to the given example.
 ## Requirements  
 - ffld_server  
 - cgenff  
-- Protein Preparation Wizard  
+- Protein Preparation Wizard (Schrodinger Maestro)
 - Python3.10  
 - Q  
+
+You can download a free, academic version of Schrodinger Maestro here:
+https://www.schrodinger.com/freemaestro
 
 contact: [Manuel Orozco (PhD)]
 
