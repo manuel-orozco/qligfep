@@ -29,11 +29,10 @@ based on ligand binding of CDk2 inhibitors.
 
 # Installing QligFEP and QresFEP  
 
-- Install a working version of Q, e.g.:  
+- Install a working version of Q, for example:  
 
-    <https://github.com/esguerra/Q6>  
+    <https://github.com/qusers/Q6>  
 
-  
 - Clone this repository:  
 
     git clone https://github.com/manuel-orozco/qligfep.git
